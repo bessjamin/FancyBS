@@ -1,0 +1,22 @@
+{
+  "name": "fancybs",
+  "version": "1.0.0",
+  "description": "Me Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bessjamin/FancyBS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bessjamin/FancyBS/issues"
+  },
+  "homepage": "https://github.com/bessjamin/FancyBS#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
